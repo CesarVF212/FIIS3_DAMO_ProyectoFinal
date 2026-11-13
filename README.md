@@ -1,3 +1,30 @@
+# --- ENGLISH --
+
+# Flutter Project: Calculator
+
+This project is a basic calculator mobile app built with Flutter and deployed on Android.
+Its goal is to get familiar with the Flutter development environment and with designing simple mobile interfaces.
+
+---
+
+This project consists of developing a **basic calculator** as part of the **Mobile Application Development** course (third year of the Double Degree in Software Engineering and Computational Physics).
+
+## Description
+
+The practice consists of creating a mobile application using **Flutter**, deployed on **Android**, that simulates the operation of a **basic calculator**.  
+The goal is to become familiar with the Flutter development environment and the design of simple mobile interfaces.
+
+## Submission
+
+To complete the submission of this practice, the following items must be provided separately:
+
+1. **`.zip` file of the complete project**
+2. **Demo video** (with the name `name_surname` in the screen capture, using tools such as OBS or similar, no videos recorded from a phone). The video must show the application working, without needing to explain the code. The approximate duration of the video should be **1 minute**.
+
+> **Important:** Projects that do not meet the submission requirements or do not include a video will receive a **50%** penalty on the grade.
+
+# --- SPANISH ---
+
 # Proyecto Flutter: Calculadora.
 
 Este proyecto consiste en el desarrollo de una **calculadora básica** como parte de la asignatura **Desarrollo de Aplicaciones Móviles** (Tercer curso del Doble Grado en Ingeniería de Software y Física Computacional).
